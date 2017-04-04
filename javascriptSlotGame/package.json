@@ -1,0 +1,22 @@
+{
+  "name": "simple-slot-machine-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/composer2/SimpleSlotMachineGame.git"
+  },
+  "author": "Boncho Belutov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/composer2/SimpleSlotMachineGame/issues"
+  },
+  "homepage": "https://github.com/composer2/SimpleSlotMachineGame#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
